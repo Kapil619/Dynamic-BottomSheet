@@ -18,13 +18,10 @@ This project implements a reusable BottomSheet component that dynamically adjust
 
 🖼️ Demo
 📽 Click below to view the demo:
-
 https://github.com/Kapil619/Dynamic-BottomSheet/blob/master/assets/bottomsheet.mp4
 
-<video src="https://github.com/Kapil619/Dynamic-BottomSheet/blob/master/assets/bottomsheet.mp4" controls width="100%" />
 
 ### 🔧 Technologies Used
-
 
 - React Native
 - Expo Router
