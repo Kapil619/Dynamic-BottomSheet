@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
+# Dynamic Reusable Bottomsheet application (Expo + React Native)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project implements a reusable BottomSheet component that dynamically adjusts its height based on content. It includes smooth animations, horizontal and vertical scrolling support, and responsiveness to content height. Built using React Native and the @gorhom/bottom-sheet library.
 
-## Get started
+🚀 Features
+📱 Dynamic Height Adjustment based on the content rendered
 
-1. Install dependencies
+🔁 Reusable BottomSheet component usable across screens
 
-   ```bash
-   npm install
-   ```
+📈 Animated Open/Close Transitions
 
-2. Start the app
+🔃 Supports Both Horizontal & Vertical Scrolling
 
-   ```bash
-   npx expo start
-   ```
+💡 Responsive Layout: Only expands to necessary height unless content exceeds screen size
 
-In the output, you'll find options to open the app in a
+🧭 Card-Based UI:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+🖼️ Demo
+📽 Click below to view the demo:
 
-## Get a fresh project
+https://github.com/Kapil619/Dynamic-BottomSheet/blob/master/assets/bottomsheet.mp4
 
-When you're ready, run:
+<video src="https://github.com/Kapil619/Dynamic-BottomSheet/blob/master/assets/bottomsheet.mp4" controls width="100%" />
 
-```bash
-npm run reset-project
-```
+### 🔧 Technologies Used
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+- React Native
+- Expo Router
+- TypeScript
+- @gorhom/bottom-sheet
+- react-native-gesture-handler
+- react-native-reanimated
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+For any questions or feedback, feel free to reach out:<br>
+Kapil Badokar<br>
+📧 kapilbadokar321@gmil.com <br>
+🔗 [LinkedIn](https://www.linkedin.com/in/kapilbadokar/) <br>
